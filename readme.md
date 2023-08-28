@@ -14,3 +14,11 @@ To add Relics, use the initials for the relic names as shorthands:
  - Goblets (Chalices in Classic EU): ``mg, gg, ng, lg``
  - Seals: ``ms, gs, ns, ls``
  - Icons: ``mi, gi, ni, li``
+
+At the end of relic input, simpy type ``done``.
+
+Example:
+
+``
+li li li mi ls ns gs lg mg nc done
+``
